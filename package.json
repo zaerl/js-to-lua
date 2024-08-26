@@ -1,0 +1,29 @@
+{
+  "name": "@zaerl/lua",
+  "version": "1.0.0",
+  "description": "Javascript objects to Lua tables converter",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaerl/lua.git"
+  },
+  "keywords": [
+    "lua",
+    "lua-tables",
+    "js-to-lua"
+  ],
+  "author": "Francesco Bigiarini <lua@zaerl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaerl/lua/issues"
+  },
+  "homepage": "https://github.com/zaerl/lua#readme"
+}
